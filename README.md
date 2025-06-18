@@ -4,5 +4,6 @@ This project aims to predict the likelihood of heart disease in patients based o
 # Dataset
 # Source: UCI Heart Disease Dataset
 
-# Features:Age, Sex, Chest Pain Type, Resting BP, Cholesterol, Fasting Blood Sugar, Rest ECG, Max HR, Exercise-induced Angina, ST Depression, Slope, CA, Thal, etc.
+# Features:
+Age, Sex, Chest Pain Type, Resting BP, Cholesterol, Fasting Blood Sugar, Rest ECG, Max HR, Exercise-induced Angina, ST Depression, Slope, CA, Thal, etc.
 
